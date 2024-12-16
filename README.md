@@ -28,3 +28,8 @@
 
   ![image](https://github.com/user-attachments/assets/d2264f96-3abe-4829-8b2e-b58d84ce821a)
 <br>
+
+### Primary og Foreign keys
+- Man bruker foreign keys for å bruke en unik id to steder
+- I properties så kan du right clicke på primary key og lage en ny primary key
+
